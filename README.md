@@ -1,3 +1,4 @@
+[![NextWork verified Consistent](http://localhost:8272/badges/warm_magenta_quiet_freshwater_clam/consistent.svg)](http://localhost:8272/portfolio/warm_magenta_quiet_freshwater_clam/badges#consistent)
 <div align="center"><img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg" alt="" height="150"></div>
 
 # Flask
